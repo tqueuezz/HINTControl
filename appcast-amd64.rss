@@ -1,0 +1,23 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>HINT Control Changelog</title>
+        <link>https://github.com/zacharee/ArcadyanKVD21Control/releases/latest/download/appcast-amd64.rss</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.16.0</title>
+            <link>https://github.com/zacharee/ArcadyanKVD21Control/releases/latest/download/</link>
+            <sparkle:version>1.16.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description>
+                <![CDATA[ New release: version 1.16.0 ]]>
+            </description>
+            <pubDate>Wed, 3 Sep 2025 16:51:40 GMT</pubDate>
+            <enclosure url="https://github.com/zacharee/ArcadyanKVD21Control/releases/latest/download/hintcontrol-1.16.0-mac-amd64.zip" 
+                       length="139752946" 
+                       type="application/octet-stream" 
+                       sparkle:edSignature="Oz2HuvSo4/V7N0S/obzk85v3Eeye7mNIZ/RXzmUuY/CQo6uVMG583CEUtNkIGaHZMZqRuI+4SfTt6QcmIRIyDQ=="/>
+        </item>
+    </channel>
+</rss>
